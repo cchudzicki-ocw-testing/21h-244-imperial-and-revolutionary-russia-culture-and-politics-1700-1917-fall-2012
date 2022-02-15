@@ -8,7 +8,6 @@ menu:
     name: Lecture Topics
     weight: 30
 title: Lecture Topics
-type: course
 uid: de5c1264-214a-2131-594b-63764df60128
 ---
 
